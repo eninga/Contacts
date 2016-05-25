@@ -1,0 +1,13 @@
+{% extends "::base.html.twig" %}
+{% block title %}{%trans%}Mot de passe oublié{%endtrans%} ?{% endblock %}
+{% block body %}
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h4 class="centre">{%trans%}Mot de passe oublié{%endtrans%} ?</h4>   
+
+            <div class="">
+                {% include "FOSUserBundle:Resetting:request_content.html.twig" %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

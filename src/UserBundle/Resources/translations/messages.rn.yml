@@ -1,0 +1,140 @@
+form:
+    nom: Izina ( optionnel)
+    prenom: Amatazirano (optionnel)
+Hello: Kaze
+hello: kaze
+reponse: inyishu
+Register: Kwiyandikisha
+register: kwiyandikisha
+Job: Akazi
+job: akazi
+Jobs: Akazi
+jobs: akazi
+advent: Annonce
+Advents: Annonces
+traineeship: stage
+home: itanguriro
+Home: Itanguriro
+login: login
+username: 'izina ryugokoresha kuriyi site (pseudo)'
+lastename: izina
+firstname: amatazirano
+password: 'mot de passe'
+photo: ifoto
+Photos: Amafoto
+Message: Ubutumwa
+Messages: Ubutumwa
+Déscription: Déscription
+'Lieu et Contact public': 'Aho hatumbereye'
+Prix: Igiciro
+Marque: Ubwoko
+Kilométrage: Ibirometero
+Etat: Etat
+Energie: Inyawa
+'Année de fabrication': 'Umwaka yakozwemwo'
+Surface: uburinganire
+'Nombre de pièces': Ivyumba
+'Contacter l''annonceur': 'Contacter l''annonceur'
+'Mes réponses': 'Inyishu zanje'
+'Aucune réponse actuelement': 'Ntanyishu nimwe ihari ubu'
+'Retour aux annonces': 'Subira kumatangazo'
+'publiée le': 'vyanditswe itariki'
+à: i
+'voir les détails': 'voir les détails'
+'Aucune annonce trouvée': 'Aucune annonce trouvée'
+'Votre photo pour': 'ifoto yanyu'
+'a été ajoutée': 'a été ajoutée'
+'Retour à l''annonce': 'Retour à l''annonce'
+'Retour à mes annonces': 'Retour à mes annonces'
+'Ajouter une autres photo': 'Ajouter une autres photo'
+'Votre réponse pour': 'Votre réponse pour'
+'a été envoyéee': 'a été envoyéee'
+'a été envoyée': 'a été envoyée'
+prix: igiciro
+lieu: ikibanza
+'Service en cours de lancement': 'Service en cours de lancement'
+merci: murakoze
+bye: aakagaruka
+Emplois/Stages: 'Akazi / Stages'
+Chercher: Rondera
+edit: Uzuza
+'change de langue': hindura
+g5.projet.annonce.ragarder: raba
+g5.projet.annonce.merci: murakoze
+mention.legale: "Les informations recueillies sur ce site permettent de vous identifier afin vous identifier.\n"
+mention.charte: "charte du site\n"
+Fermer: Fermer
+'Tous les annonces': 'Annonces'
+filtrer: rondera
+localite: ikibanza (akarere)
+'Choisissez une catégorie': 'Choisissez une catégorie'
+'Mes annonces': 'Mes annonces'
+'Vous n''avez pas encore posté d''annonce': 'Vous n''avez pas encore posté d''annonce'
+'ajouter une annonce': 'ajouter une annonce'
+"Vous voulez vendre ou faire louer quelque chose?<br/>\n                Vous voulez acheter ou louer quelque chose?<br/>\n                Vous avez une offre d'empoi ou vous êtes demandeur d'emploi?<br/>": "Vous voulez vendre ou faire louer quelque chose?<br/>\n                Vous voulez acheter ou louer quelque chose?<br/>\n                Vous avez une offre d'empoi ou vous êtes demandeur d'emploi?<br/>"
+'est là pour répondre à ces question !': 'est là pour répondre à ces question !'
+"vous permet de déposer des annonces ou d'en consulter\n                        facilement et GRATUITEMENT!": "vous permet de déposer des annonces ou d'en consulter\n                        facilement et GRATUITEMENT!"
+'Trouver une annonce': 'Trouver une annonce'
+'Ventes ou locations': 'Ventes ou locations'
+'Créer une annonce': 'Créer une annonce'
+'Si vous vous posez l''une de ces questions ci dessous, cliquez dessus pour faire apparaitre la réponse': 'Si vous vous posez l''une de ces questions ci dessous, cliquez dessus pour faire apparaitre la réponse'
+'1.Je veux deposer une annonce, que dois-je faire?': '1.Je veux deposer une annonce, que dois-je faire?'
+'Rendez-vous au menu et selon votre offre cliquer sur Emplois ou Ventes et locations': 'Rendez-vous au menu et selon votre offre cliquer sur Emplois ou Ventes et locations'
+"2. J'ai deposé une annonce, est-ce que je dois parcourir toutes les annonces\n                        pour trouver la mienne?": "2. J'ai deposé une annonce, est-ce que je dois parcourir toutes les annonces\n                        pour trouver la mienne?"
+"Vous pouvez acceder à vos annonces depuis le menu type de votre annonce\n                        ou depuis votre profil": "Vous pouvez acceder à vos annonces depuis le menu type de votre annonce\n                        ou depuis votre profil"
+'3. J''ai deposé une annonce, et après comment ça se passe?': '3. J''ai deposé une annonce, et après comment ça se passe?'
+"Dès que votre annonce est en ligne, les internautes peuvent la consulter\n                        et vous contacter depuis votre annonce.\n                        Les messages que vous vous échangés sont visibles\n                        uniquement par vous. \n                        Dans tous les cas vous aurez une notification par email.": "Dès que votre annonce est en ligne, les internautes peuvent la consulter\n                        et vous contacter depuis votre annonce.\n                        Les messages que vous vous échangés sont visibles\n                        uniquement par vous. \n                        Dans tous les cas vous aurez une notification par email."
+'4. Je veux acheter ou louer quel?': '4. Ngomba kugura canke gukotesha ?'
+'Chercher par province': 'Rondera kuntara'
+'par carte': 'mukoresheje ikarata'
+'par nom': 'mukoresheje izina'
+Annonce: Annonce
+"Nous avons le plaisir de vous informer de la réussite de\n                l'enregistrement de votre annonce": "Nous avons le plaisir de vous informer de la réussite de\n                l'enregistrement de votre annonce"
+'L''Equipe': 'L''Equipe'
+"Nous avons le plaisir de vous informer qu'une candidature a été\n                envoyée à votre annonce": "Turabamenyesheje ko inyishu mwarungitse yashitse\n                kuri annonce"
+"Nous avons le plaisir de vous informer que votre candidature a été \n                envoyée pour l'annonce": "Turabamenyesheje ko inyishu mwarungitse yashitse\n                kuri annonce"
+'Aucune contribution': 'Ntanyishu iraboneka'
+repondre: Ishura
+'Espace forum': 'Ihwaniro'
+publiée: bimenyeshejwe
+le.date: itariki
+'Aucun résultat': 'Aucun résultat'
+'Tous les offres emplois et stages': 'Ubuzi'
+select.contrat: Hitamwo contrat
+CDI: CDI
+CDD: CDD
+STAGE: STAGE
+select.domaine: Hitamwo
+par: par
+job.domaine: akazi gaki ?
+'Mes offres emplois et stages': 'Mes offres emplois et stages'
+postulat: postulat
+'Vous n''avez pas encore posté d''emplois ou de stages': 'Vous n''avez pas encore posté d''emplois ou de stages'
+'Ajouter emploi,stage': 'Ajouter emploi,stage'
+edit.job: Akazi/Stages
+'Listes des annonces.': 'Ivyamenyeshejwe vyose.'
+'Voir en tant que propriétaire': 'Raba nkanyeneyo'
+'Présentation de l''annonceur': 'Présentation de l''annonceur'
+Mission: Ibikorwa bikenewe
+Profil: Uwomushaka yoba azi iki? yizi iki? ...
+'Autres précisions': 'Ibindi mushaka kuvuga'
+Début: Gutangura ryari
+Contrat: Contrat
+Localisation: Ahariho
+Contact: Aho kubariza
+'Complément d''adresse': 'Complément d''adresse'
+Remuneration: Umushahara
+job.presentation: Sigura muri make ishirahamwe ryanyu
+forums: 'Raba vyose'
+add.forum: 'Shikiriza iciyumviro canke ikibazo'
+forum: Ihwaniro
+mail.objet: Objet
+mail.message: Ubutumwa
+langue: 'Indimi'
+connexion: Connexion
+profil: Profil
+deconnexion: Déconnexion
+'Bienvenue sursitename': 'Kaze kuri'
+news: Amakuru
+ad: Annonce
+

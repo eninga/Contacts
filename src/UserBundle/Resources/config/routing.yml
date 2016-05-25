@@ -1,0 +1,23 @@
+user_contacts:
+    path:  /contacts
+    defaults: { _controller: UserBundle:Users:getContacts }
+    
+user_contact:
+    path:  /contact/{id}/
+    defaults: { _controller: UserBundle:Users:getContact }
+    
+user_add:
+    path:  /ajout/contact
+    defaults: { _controller: UserBundle:Users:postContact }
+    
+user_modif:
+    path:  /modif/{id}/contact
+    defaults: { _controller: UserBundle:Users:postContact }
+    
+user_delete:
+    path:  /supprime/{id}/contact
+    defaults: { _controller: UserBundle:Users:deleteContact }
+    
+user_home:
+    path:  /
+    defaults: { _controller: UserBundle:Users:getContacts }

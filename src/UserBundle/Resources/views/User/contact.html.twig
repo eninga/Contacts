@@ -1,0 +1,16 @@
+{% extends "::base.html.twig" %}
+{% block title %} {{contact.prenom}} {{contact.nom}}{% endblock %}
+{% block body %}
+    <div class="col-lg-offset-2 col-lg-6 col-lg-offset-2">
+        <div class="well well-lg">
+            <h3>{{contact.prenom}} {{contact.nom}}</h3><hr/>
+            <table class="table">
+                <tr><td>Email:</td><td>{{contact.email}}</td></tr>
+                <tr><td>Adresse:</td><td>{{contact.adresse}}</td></tr>
+                <tr><td>Téléphone:</td><td>{{contact.telephone}}</td></tr>
+                <tr><td>Site web:</td><td>{{contact.url}}</td></tr>
+            </table>
+            <a href="{{ path('user_modif', {'id':contact.id}) }}">Modifier</a>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends "::sign.html.twig" %}
+
+{% block body %}
+    <div class="row">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="centre"></h4>   
+            </div>
+            <div class="panel-body">
+                {% include "FOSUserBundle:Profile:edit_content.html.twig" %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

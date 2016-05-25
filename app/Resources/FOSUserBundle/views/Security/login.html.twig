@@ -1,0 +1,65 @@
+{% extends "::base.html.twig" %}
+{% block title %}{%trans%}Login{%endtrans%}{% endblock %}
+{% block fos_user_content %}
+    <div id="login" class="container">
+        <h2 class="col-lg-offset-3">Veillez vous identifier</h2>
+    </div>
+    <br/>
+    <div class="row">
+        {% trans_default_domain 'FOSUserBundle' %}  
+        <div class="col-lg-offset-3 col-md-9">
+            <div class="row">
+                <div class="card">
+                    <div class="">
+                        {% if error %}
+                            <div class="centre">
+                                <div class="danger centre">{{ error.messageKey|trans(error.messageData, 'FOSUserBundle') }}</div>
+                            </div>
+                        {% endif %}
+                        <div class="row">
+                            <form action="{{ path("fos_user_security_check") }}" method="post" class="">
+                                <input type="hidden" name="_csrf_token" value="{{ csrf_token }}" />
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <label class="field-label" for="username">Pseudo</label>
+                                        <input type="text" id="username" name="_username" value="{{ last_username }}" placeholder="pseudo ou email" class="form-control" />
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <label class="field-label" for="password">Mot de passe</label>
+                                        <input type="password" id="password" name="_password" class="form-control" placeholder="mot de passe" required="required" />
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <input type="checkbox" id="remember_me" name="_remember_me" value="on" />
+                                        <label class="" for="remember_me"><small><i>Se souvenir de moi</i></small></label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <input class="btn btn-primary" type="submit" id="_submit" name="_submit" value="Valider" />
+                                    </div>
+                                </div>
+                                <section class="">
+                                    <p>
+                                        <a href="{{ path('fos_user_resetting_request') }}"> {%trans%}Mot de passe oublié{%endtrans%}?</a>
+                                    </p>
+                                </section>
+                                <section class="">
+                                    <p>
+                                        <a href="{{ path('fos_user_registration_register') }}">
+                                            {%trans%}Créer un compte{%endtrans%}
+                                        </a>
+                                    </p>
+                                </section>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock fos_user_content %}
+

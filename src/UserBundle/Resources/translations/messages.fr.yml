@@ -1,0 +1,239 @@
+'Symfony2 is great': 'J''aime Symfony2'
+form:
+    nom: Nom
+    prenom: Prénom
+comment: commentaire
+comments: commentaires
+voir: voir
+reponse: reponse
+Hello: Bonjour
+hello: bonjour
+Register: 'Créer un compte'
+register: 'créer un compte'
+Job: Emploi
+Jobs: Emplois
+advent: annonce
+Advents: Annonces
+traineeship: stage
+home: accueil
+Home: Accueil
+login: login
+username: 'nom d''utilisateur'
+lastename: nom
+firstname: prénom
+password: 'mot de passe'
+photo: photo
+Photos: Photos
+Message: Message
+Messages: Messages
+Déscription: Déscription
+'Lieu et Contact public': 'Lieu et Contact public'
+Prix: Prix
+Marque: Marque
+Kilométrage: Kilométrage
+Etat: Etat
+Energie: Energie
+'Année de fabrication': 'Année de fabrication'
+Surface: Surface
+'Nombre de pièces': 'Nombre de pièces'
+'Contacter l''annonceur': 'Contacter l''annonceur'
+'Mes réponses': 'Mes réponses'
+'Aucune réponse actuelement': 'Aucune réponse actuelement'
+'Retour aux annonces': 'Retour aux annonces'
+'publiée le': 'publiée le'
+à: à
+'voir les détails': 'voir les détails'
+'Aucune annonce trouvée': 'Aucune annonce trouvée'
+'Votre photo pour': 'Votre photo pour'
+'a été ajoutée': 'a été ajoutée'
+'Retour à l''annonce': 'Retour à l''annonce'
+'Retour à mes annonces': 'Retour à mes annonces'
+'Ajouter une autres photo': 'Ajouter une autres photo'
+'Votre réponse pour': 'Votre réponse pour'
+'a été envoyéee': 'a été envoyéee'
+'a été envoyée': 'a été envoyée'
+prix: prix
+lieu: lieu
+'Service en cours de lancement': 'Service en cours de lancement'
+merci: merci
+bye: 'au revoir'
+Emplois/Stages: Emplois/Stages
+Chercher: Chercher
+'change de langue': 'change de langue'
+g5.projet.annonce.ragarder: regarder
+g5.projet.annonce.merci: merci
+mention.legale: "Les informations recueillies sur ce site permettent de vous identifier afin vous identifier.\n"
+mention.charte: "charte du site\n"
+edit: Edition
+edit.annonce: 'Edition d''une annonce'
+Fermer: Fermer
+'Tous les annonces': Annonces
+filtrer: filtrer
+localite: localité
+'Choisissez une catégorie': 'Choisissez une catégorie'
+'Mes annonces': 'Mes annonces'
+'Vous n''avez pas encore posté d''annonce': 'Vous n''avez pas encore posté d''annonce'
+'ajouter une annonce': 'ajouter une annonce'
+"Vous voulez vendre ou faire louer quelque chose?<br/>\n                Vous voulez acheter ou louer quelque chose?<br/>\n                Vous avez une offre d'empoi ou vous êtes demandeur d'emploi?<br/>": "Vous voulez vendre ou faire louer quelque chose?<br/>\n                Vous voulez acheter ou louer quelque chose?<br/>\n                Vous avez une offre d'empoi ou vous êtes demandeur d'emploi?<br/>"
+'est là pour répondre à ces question !': 'est là pour répondre à ces question !'
+"vous permet de déposer des annonces ou d'en consulter\n                        facilement et GRATUITEMENT!": "vous permet de déposer des annonces ou d'en consulter\n                        facilement et GRATUITEMENT!"
+'Trouver une annonce': 'Trouver une annonce'
+'Ventes ou locations': 'Ventes ou locations'
+'Créer une annonce': 'Créer une annonce'
+'Si vous vous posez l''une de ces questions ci dessous, cliquez dessus pour faire apparaitre la réponse': 'Si vous vous posez l''une de ces questions ci dessous, cliquez dessus pour faire apparaitre la réponse'
+'1.Je veux deposer une annonce, que dois-je faire?': '1.Je veux deposer une annonce, que dois-je faire?'
+'Rendez-vous au menu et selon votre offre cliquer sur Emplois ou Ventes et locations': 'Rendez-vous au menu et selon votre offre cliquer sur Emplois ou Ventes et locations'
+"2. J'ai deposé une annonce, est-ce que je dois parcourir toutes les annonces\n                        pour trouver la mienne?": "2. J'ai deposé une annonce, est-ce que je dois parcourir toutes les annonces\n                        pour trouver la mienne?"
+"Vous pouvez acceder à vos annonces depuis le menu type de votre annonce\n                        ou depuis votre profil": "Vous pouvez acceder à vos annonces depuis le menu type de votre annonce\n                        ou depuis votre profil"
+'3. J''ai deposé une annonce, et après comment ça se passe?': '3. J''ai deposé une annonce, et après ?'
+"Dès que votre annonce est en ligne, les internautes peuvent la consulter\n                        et vous contacter depuis votre annonce.\n                        Les messages que vous vous échangés sont visibles\n                        uniquement par vous. \n                        Dans tous les cas vous aurez une notification par email.": "Dès que votre annonce est en ligne, les internautes peuvent la consulter\n                        et vous contacter depuis votre annonce.\n                        Les messages que vous vous échangés sont visibles\n                        uniquement par vous. \n                        Dans tous les cas vous aurez une notification par email."
+'4. Je veux acheter ou louer quel?': '4. Je veux acheter ou louer quelque chose?'
+'Chercher par province': 'Chercher par province'
+'par carte': 'par carte'
+'par nom': 'par nom'
+Annonce: Annonce
+"Nous avons le plaisir de vous informer de la réussite de\n                l'enregistrement de votre annonce": "Nous avons le plaisir de vous informer de la réussite de\n                l'enregistrement de votre annonce"
+'L''Equipe': 'L''Equipe'
+"Nous avons le plaisir de vous informer qu'une candidature a été\n                envoyée à votre annonce": "Nous avons le plaisir de vous informer qu'une candidature a été\n                envoyée à votre annonce"
+"Nous avons le plaisir de vous informer que votre candidature a été \n                envoyée pour l'annonce": "Nous avons le plaisir de vous informer que votre candidature a été \n                envoyée pour l'annonce"
+'Aucune contribution': 'Aucune contribution'
+repondre: Répondre
+'Espace forum': 'Espace forum'
+publiée: publiée
+'Aucun résultat': 'Aucun résultat'
+'Tous les offres emplois et stages': 'Tous les offres emplois et stages'
+select.contrat: Contrat
+CDI: CDI
+CDD: CDD
+STAGE: STAGE
+select.domaine: Domaine
+par: par
+job.domaine: 'Domaine d''emploie'
+'Mes offres emplois et stages': 'Mes offres emplois et stages'
+postulat: postulat
+'Vous n''avez pas encore posté d''emplois ou de stages': 'Vous n''avez pas encore posté d''emplois ou de stages'
+'Ajouter emploi,stage': 'Ajouter emploi,stage'
+edit.job: emploi/stage
+'Listes des annonces.': 'Listes des annonces.'
+'Voir en tant que propriétaire': 'Voir en tant que propriétaire'
+'Présentation de l''annonceur': 'Présentation de l''annonceur'
+Mission: Mission
+Profil: Profil
+'Autres précisions': 'Autres précisions'
+Début: Début
+Contrat: Contrat
+Localisation: Localisation
+Contact: Contact
+'Complément d''adresse': 'Complément d''adresse'
+Remuneration: Rémuneration
+job.presentation: Présentation
+forums: 'Tous les thèmes'
+add.forum: 'Ajouter un thème'
+annonce.pays: Pays
+annonce.region: Region
+annonce.localite: Localité
+annonce.contrat: 'Type de contrat'
+annonce.titre: 'Titre de l''annonce'
+annonce.bien: 'Type de bien'
+annonce.pieces: 'Nombre de Pièces'
+annonce.prix: Prix
+annonce.description: Déscription
+annonce.contact: 'Contact (public)'
+annonce.vente: Vente
+annonce.places: Places
+annonce.location: Location
+annonce.marque: Marque
+annonce.form.etat: 'Etat (roule ou ne roule pas ?)'
+annonce.etat: Etat
+annonce.energy: Energie
+annonce.kilometrage: Kilométrage
+annonce.fabrication: 'Année de fabrication'
+annonce.camion: Camion
+annonce.moto: Moto
+annonce.modele: Modèle
+annonce.form.modele: 'Modèle (Ex. Yaris)'
+annonce.form.marque: 'Marque (Ex. TOYOTA)'
+annonce.portes: Portes
+annonce.voiture: Voiture
+annonce.surface: Surface
+annonce.immobilier: Immobilier
+annonce.vehicule: Véhicule
+annonce.places: Places
+key.word: 'Mots clés'
+annonce.autres: Autres
+select.category: 'Choisir la catégorie'
+annonce.choix.category: 'Catégorie'
+annonce.choix.contrat: 'Choisir un contrat'
+annonce.demande: Demande
+annonce.offre: Offre
+annonce.nature: 'Offre ou demande'
+offre.demande.choisir: Choisir
+mail.objet: Objet
+mail.message: Message
+langue: langue
+connexion: Connexion
+profil: Profil
+deconnexion: Déconnexion
+Edit.job: Emploi
+annonce.monnaie: Monnaie
+annonce.choix.monnaie: 'Choisir la monnaie'
+'Bienvenue sursitename': 'Bienvenue sur'
+a.date: à
+edit.forum: Forum
+forum.reponse: Réponse
+le.date: le
+forum.titre: Titre
+forum.theme: Description
+menu.annonce.all: 'Toutes les annonces'
+menu.annonce.deposer: 'Déposer gratuitement une annonce'
+menu.annonce.my: 'Mes annonces de Ventes / Locations'
+menu.annonce.titre: 'Ventes / Locations'
+menu.job.all: 'Toutes les annonces d''emplois et stages'
+menu.job.deposer: 'Déposer gratuitement une annonce d''emplois et stages'
+menu.job.my: 'Mes annonces d''emplois et stages'
+site.droit: 'tous droits réservés'
+site.meta.description: 'Kamenyi.com, leader social qui permets de déposer ou de chercher des annonces ou offres gratuitement. Kamenyi fournit un forum qui permet aux internautes de discuter sur des sujets variés'
+site.meta.description_annonces: 'Consulter ou déposer des petites annonces de ventes ou de locations ou offres pour emplois et stages'
+site.meta.description_forums: 'Acceder aux sujets de discussion et contibuer sur le forum de kamenyi.com'
+site.meta.description_jobs: 'Consulter des annonces d''emplois et stages'
+site.meta.description_communique: 'Acceder aux communiqués'
+site.meta.description_profile: 'Consulter et partager votre carte de visite'
+site.propose: 'KAMENYI.COM vous propose une large variété de services'
+tel_fixe: 'Téléphone fixe'
+tel_mob: 'Mobile'
+pays: Pays
+ville: Ville
+bp: 'Boite postale'
+job: Travail
+employeur: Employeur
+'kamenyi.com, leader social qui permets de d&eacute;poser ou de chercher des annonces ou offres gratuitement. Kamenyi fournit un forum qui permet aux internautes de discuter sur des sujets variés': 'kamenyi.com, leader social qui permets de d&eacute;poser ou de chercher des annonces ou offres gratuitement. Kamenyi fournit un forum qui permet aux internautes de discuter sur des sujets variés'
+'Ajouter une photo': 'Ajouter une photo'
+'supprimer cette annonce': 'supprimer cette annonce'
+'Listes des réponses': 'Listes des réponses'
+'Vous êtes proprietaire de cette annonce': 'Vous êtes proprietaire de cette annonce'
+'Conditions d''utilisations': 'Conditions d''utilisations'
+'Vous voulez vendre ou faire louer quelque chose?': 'Vous voulez vendre ou faire louer quelque chose?'
+'Vous voulez acheter ou louer quelque chose?': 'Vous voulez acheter ou louer quelque chose?'
+'Vous avez une offre d''empoi ou de stage?': 'Vous avez une offre d''empoi ou de stage?'
+'Vous êtes demandeur d''emploi ou de stage?': 'Vous êtes demandeur d''emploi ou de stage?'
+'Vous avez une quelconque questions? Le forum vous permet de tout demander!': 'Vous avez une quelconque questions? Le forum vous permet de tout demander!'
+'répond à toutes ces questions!': 'répond à toutes ces questions!'
+site.vous.permets: "vous permets de déposer des annonces ou d'en consulter facilement et GRATUITEMENT!"
+'Mode d''emploi de': 'Mode d''emploi de'
+'1.Comment déposer une annonce ?': '1.Comment déposer une annonce ?'
+'Rendez-vous au menu, et selon votre annonce cliquer sur [Emplois] ou [Ventes-Locations].': 'Rendez-vous au menu, et selon votre annonce cliquer sur [Emplois] ou [Ventes-Locations].'
+'2. J''ai deposé une annonce, et après ...?': '2. J''ai deposé une annonce, et après ...?'
+"Lorsqu'une annonce est en ligne, les internautes peuvent la consulter\n                        et vous contacter depuis ce site. \n                        Vous aurez une notifications par e-mail à chaque fois qu'il y'a une réponse\n                        à votre annonce.": "Lorsqu'une annonce est en ligne, les internautes peuvent la consulter\n                        et vous contacter depuis ce site. \n                        Vous aurez une notifications par e-mail à chaque fois qu'il y'a une réponse\n                        à votre annonce."
+'3. Une annonce vous intéresse ?': '3. Une annonce vous intéresse ?'
+"Si vous trouvez une annonce qui vous intéresse vous pouvez contacter\n                        l'annonceur depuis l'annonce": "Si vous trouvez une annonce qui vous intéresse vous pouvez contacter\n                        l'annonceur depuis l'annonce"
+'4. Utulisation du forum .': '4. Utilisation du forum .'
+"Si vous voulez demander quelque chose aux internautes, vous pouvez créer un thème\n                        depuis le forum et les internautes pourront donner leurs avis.": "Si vous voulez demander quelque chose aux internautes, vous pouvez créer un thème\n                        depuis le forum et les internautes pourront donner leurs avis."
+'5. Vous avez d''autres questions ?': '5. Vous avez d''autres questions ?'
+"Utilisez l'onglet [Messages] si vous voulez contacter l'admnistrateur de ce site ou si vous avez\n                        une question concernant le fonctionnement de cette application.\n                        Si vous êtes connecté vous pourrez voir le nombre de messages qui vous sont envoyés.": "Utilisez l'onglet [Messages] si vous voulez contacter l'admnistrateur de ce site ou si vous avez\n                        une question concernant le fonctionnement de cette application.\n                        Si vous êtes connecté vous pourrez voir le nombre de messages qui vous sont envoyés."
+auteur: Auteur
+Contribuer: Contribuer
+nous.contacter: Contact
+news: Actualités
+ad: Annonces
+en.savoir.plus: "En savoir plus"
+
